@@ -9,7 +9,7 @@ int add(int a, int b);
 		x = a + b;
 		return x;
 	}
-	int multiply(int x ,int y);
+int multiply(int x ,int y);
 	int multiply(int x ,int y)
 	{
 		int z ;
